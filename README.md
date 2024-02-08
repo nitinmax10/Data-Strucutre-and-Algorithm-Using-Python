@@ -39,7 +39,7 @@ Question 3 - Greatest Common Divisor
 
 Question 4 - Decimal To Binary
 
-# 4 - Bonus CHALLENGING Recursion Problems (Exercises)
+# 4 - CHALLENGING Recursion Problems (Exercises)
 
 power
 
